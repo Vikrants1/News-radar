@@ -223,7 +223,7 @@ git push origin feature/your-feature
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
+MIT © [Vikrant S](https://github.com/Vikrants1)
 
 ---
 
