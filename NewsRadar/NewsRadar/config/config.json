@@ -1,0 +1,21 @@
+{
+  "keywords": ["AI", "Python", "startup", "technology", "machine learning", "cybersecurity"],
+  "feeds": [
+    "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "https://techcrunch.com/feed/",
+    "https://feeds.reuters.com/reuters/technologyNews",
+    "https://www.theverge.com/rss/index.xml",
+    "https://hnrss.org/frontpage"
+  ],
+  "email": {
+    "sender": "your_email@gmail.com",
+    "password": "your_app_password_here",
+    "recipients": ["recipient@email.com"],
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587
+  },
+  "schedule_time": "08:00",
+  "max_articles_per_digest": 20,
+  "db_path": "outputs/newsradar.db",
+  "export_path": "outputs/articles.csv"
+}

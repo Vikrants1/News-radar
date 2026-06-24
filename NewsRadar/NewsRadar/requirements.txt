@@ -1,0 +1,4 @@
+requests>=2.31.0
+feedparser>=6.0.10
+apscheduler>=3.10.4
+pytest>=7.4.0
