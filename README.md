@@ -18,19 +18,19 @@ stores articles in SQLite, and emails you a beautiful HTML digest — every day,
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 **Multi-feed RSS Scraper** — fetches headlines from BBC, TechCrunch, Reuters, Hacker News, and more
-- 🎯 **Keyword Filtering** — regex-powered filtering saves only articles matching your interests
-- 🗄️ **SQLite Storage** — lightweight local database with SHA-256 URL hashing for deduplication
-- 📧 **HTML Email Digest** — styled, responsive email digest sent via SMTP (Gmail-ready)
-- ⏰ **Daily Scheduler** — APScheduler runs the full pipeline automatically at your chosen time
-- 📤 **CSV Export** — export all saved articles to CSV anytime
-- 🖥️ **Clean CLI** — 5 commands to scrape, digest, schedule, export, and check stats
+-  **Multi-feed RSS Scraper** — fetches headlines from BBC, TechCrunch, Reuters, Hacker News, and more
+-  **Keyword Filtering** — regex-powered filtering saves only articles matching your interests
+-  **SQLite Storage** — lightweight local database with SHA-256 URL hashing for deduplication
+-  **HTML Email Digest** — styled, responsive email digest sent via SMTP (Gmail-ready)
+-  **Daily Scheduler** — APScheduler runs the full pipeline automatically at your chosen time
+-  **CSV Export** — export all saved articles to CSV anytime
+-  **Clean CLI** — 5 commands to scrape, digest, schedule, export, and check stats
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Clone the repository
 ```bash
@@ -89,11 +89,11 @@ Edit `config/config.json` to personalise NewsRadar:
 }
 ```
 
-> **💡 Gmail Tip:** Use a [Gmail App Password](https://support.google.com/accounts/answer/185833) instead of your real password. Takes 2 minutes to set up.
+> ** Gmail Tip:** Use a [Gmail App Password](https://support.google.com/accounts/answer/185833) instead of your real password. Takes 2 minutes to set up.
 
 ---
 
-## 🖥️ CLI Commands
+##  CLI Commands
 
 | Command | Description |
 |---|---|
@@ -105,7 +105,7 @@ Edit `config/config.json` to personalise NewsRadar:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
 ┌─────────────┐    ┌──────────────────┐    ┌──────────────┐
@@ -135,7 +135,7 @@ Edit `config/config.json` to personalise NewsRadar:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 NewsRadar/
@@ -161,7 +161,7 @@ NewsRadar/
 
 ---
 
-## 🧪 Tests
+##  Tests
 
 ```bash
 # Run all tests
@@ -183,7 +183,7 @@ pytest tests/ -v --tb=short
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package | Purpose |
 |---|---|
@@ -196,7 +196,7 @@ pytest tests/ -v --tb=short
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Telegram / Slack notification support
 - [ ] Web dashboard to browse saved articles
@@ -206,7 +206,7 @@ pytest tests/ -v --tb=short
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
@@ -221,13 +221,13 @@ git push origin feature/your-feature
 
 ---
 
-## 📄 License
+##  License
 
 MIT © [Vikrant.S](https://github.com/Vikrants1)
 
 ---
 
 <div align="center">
-  <b>⭐ Star this repo if you found it useful!</b><br><br>
-  Built with ❤️ using Python
+  <b> Star this repo if you found it useful!</b><br><br>
+  Built with  using Python
 </div>
